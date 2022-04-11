@@ -3,3 +3,5 @@ Esta es una prueba de git para estudiar y practicar un poco los comandos que tie
 Mi nombre es Juan Estevan
 
 XD
+
+En este proyecto voy a practicar git y github para que cuando empieze a trabajar en forma ya este listo para subir a github 
