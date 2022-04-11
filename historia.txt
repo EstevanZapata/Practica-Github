@@ -1,4 +1,4 @@
-Esta es una prueba de git para estudiar y practicar un poco los comando que tiene
+Esta es una prueba de git para estudiar y practicar un poco los comandos que tiene
 
 Mi nombre es Juan Estevan
 
